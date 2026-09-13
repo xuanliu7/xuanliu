@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Xuan Liu
-          subtitle: "I am a Postdoc in the Scripps Institution of Oceanography at UC San Diego."
+          subtitle: "I am a Postdoctoral Scholar at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), University of California San Diego, working with Prof. Amato Evan. I am an atmospheric scientist studying mineral dust — how it is measured, modeled, and how it affects air quality, human health, and climate. My work combines field observations, elemental and mineralogical analysis, satellite remote sensing, and atmospheric modeling (WRF-Chem) to reduce uncertainty in how dust concentration, composition, and emissions are represented, from instruments to atmospheric models."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160

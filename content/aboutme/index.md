@@ -9,8 +9,6 @@ description: "About Xuan Liu, Postdoctoral Scholar at the Scripps Institution of
 
 ![Xuan Liu](scripps_headshot.jpg#center)
 
-I am a Postdoctoral Scholar at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), University of California San Diego, working with Prof. Amato Evan. I am an atmospheric scientist studying mineral dust — how it is measured, modeled, and how it affects air quality, human health, and climate. My work combines field observations, elemental and mineralogical analysis, satellite remote sensing, and atmospheric modeling (WRF-Chem) to reduce uncertainty in how dust concentration, composition, and emissions are represented, from instruments to atmospheric models. More on my [research](/research/) and [publications](/publications/).
-
 ---
 
 #### Background
@@ -19,5 +17,10 @@ Since 2024, I have been a postdoctoral scholar at UC San Diego, where my work ha
 
 Before that, I earned my Ph.D. in Energy, Environmental & Chemical Engineering from Washington University in St. Louis (2019–2024), advised by Prof. Jay Turner and Prof. Randall Martin. My dissertation research focused on improving the measurement and quantification of mineral dust in ambient particulate matter. I received my B.S. in Chemical Engineering and Technology from Xiamen University (2015–2019).
 
+---
+
+#### Beyond Research
+
+Outside of work, I enjoy kayaking, hiking, and reading.
 
 ---
