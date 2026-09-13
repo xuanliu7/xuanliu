@@ -1,0 +1,66 @@
+<svg viewBox="0 0 700 380" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8a8a8a"/>
+    </marker>
+  </defs>
+
+  <text x="350" y="20" text-anchor="middle" font-size="15" fill="#1e1e1e" font-weight="700">Ground-Based &amp; Satellite Observations</text>
+
+  <!-- Ground-based box -->
+  <g>
+    <rect x="30" y="45" width="280" height="90" rx="10" fill="#eef0eb" stroke="#7a9c6c" stroke-width="1.5"/>
+    <!-- station icon -->
+    <line x1="60" y1="105" x2="60" y2="70" stroke="#4f6b44" stroke-width="2"/>
+    <path d="M50,70 L60,55 L70,70 Z" fill="none" stroke="#4f6b44" stroke-width="2"/>
+    <text x="170" y="75" text-anchor="middle" font-size="14" fill="#1e1e1e" font-weight="600">Ground-Based</text>
+    <text x="170" y="92" text-anchor="middle" font-size="14" fill="#1e1e1e" font-weight="600">Measurements</text>
+    <text x="170" y="115" text-anchor="middle" font-size="11.5" fill="#4f6b44">incl. Central Asia field campaign</text>
+  </g>
+
+  <!-- EMIT satellite box -->
+  <g>
+    <rect x="390" y="45" width="280" height="90" rx="10" fill="#e2edf5" stroke="#5b84a8" stroke-width="1.5"/>
+    <!-- satellite icon -->
+    <rect x="418" y="80" width="16" height="16" fill="none" stroke="#3f628a" stroke-width="1.6"/>
+    <line x1="410" y1="82" x2="418" y2="82" stroke="#3f628a" stroke-width="1.6"/>
+    <line x1="410" y1="94" x2="418" y2="94" stroke="#3f628a" stroke-width="1.6"/>
+    <line x1="434" y1="82" x2="442" y2="82" stroke="#3f628a" stroke-width="1.6"/>
+    <line x1="434" y1="94" x2="442" y2="94" stroke="#3f628a" stroke-width="1.6"/>
+    <text x="530" y="75" text-anchor="middle" font-size="14" fill="#1e1e1e" font-weight="600">EMIT Satellite</text>
+    <text x="530" y="92" text-anchor="middle" font-size="14" fill="#1e1e1e" font-weight="600">Mineralogy Retrieval</text>
+    <text x="530" y="115" text-anchor="middle" font-size="11.5" fill="#3f628a">surface mineral composition</text>
+  </g>
+
+  <path d="M170,135 V170 H320 V186" stroke="#8a8a8a" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+  <path d="M530,135 V170 H380 V186" stroke="#8a8a8a" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+  <!-- Evaluation & correction -->
+  <g>
+    <rect x="210" y="188" width="280" height="70" rx="10" fill="#f0e4d6" stroke="#a97142" stroke-width="1.5"/>
+    <text x="350" y="215" text-anchor="middle" font-size="14" fill="#1e1e1e" font-weight="600">Evaluation &amp; Bias Correction</text>
+    <text x="350" y="234" text-anchor="middle" font-size="11.5" fill="#7a5230">ground-truthing satellite retrievals</text>
+  </g>
+
+  <path d="M280,258 V280 H170 V296" stroke="#8a8a8a" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+  <path d="M420,258 V280 H530 V296" stroke="#8a8a8a" stroke-width="1.5" fill="none" marker-end="url(#arrow2)"/>
+
+  <!-- Output: improved satellite estimates -->
+  <g>
+    <rect x="30" y="298" width="280" height="68" rx="10" fill="#e2edf5" stroke="#5b84a8" stroke-width="1.5"/>
+    <text x="170" y="326" text-anchor="middle" font-size="13.5" fill="#1e1e1e" font-weight="600">Improved Satellite</text>
+    <text x="170" y="344" text-anchor="middle" font-size="13.5" fill="#1e1e1e" font-weight="600">Mineral Estimates</text>
+  </g>
+
+  <!-- Output: WRF-Chem radiative effects -->
+  <g>
+    <rect x="390" y="298" width="280" height="68" rx="10" fill="#f5efe0" stroke="#c99a3c" stroke-width="1.5"/>
+    <circle cx="418" cy="330" r="8" fill="none" stroke="#b3822a" stroke-width="1.6"/>
+    <line x1="418" y1="316" x2="418" y2="310" stroke="#b3822a" stroke-width="1.6"/>
+    <line x1="418" y1="350" x2="418" y2="344" stroke="#b3822a" stroke-width="1.6"/>
+    <line x1="404" y1="330" x2="398" y2="330" stroke="#b3822a" stroke-width="1.6"/>
+    <line x1="432" y1="330" x2="438" y2="330" stroke="#b3822a" stroke-width="1.6"/>
+    <text x="540" y="326" text-anchor="middle" font-size="13.5" fill="#1e1e1e" font-weight="600">WRF-Chem Dust</text>
+    <text x="540" y="344" text-anchor="middle" font-size="13.5" fill="#1e1e1e" font-weight="600">Optical &amp; Radiative Effects</text>
+  </g>
+</svg>

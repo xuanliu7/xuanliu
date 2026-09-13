@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://xuanliu7.github.io"  
+title: Xuan Liu
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,23 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: About Me
+          url: aboutme/
+          weight: 1
+        - name: Research
+          url: research/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Publications
+          url: publications/
           weight: 3
-        - name: Data
-          url: data/
+        - name: CV
+          url: cv_xuanliu.pdf
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Xuan Liu's research papers, curriculum vitae, and contact information."
+    author: Xuan Liu
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["research","publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,50 +52,27 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Xuan Liu
+          subtitle: "I am a Postdoc in the Scripps Institution of Oceanography at UC San Diego."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: About Me
+              url: aboutme/
+            - name: Research
+              url: research/
+            - name: Publications
+              url: publications/
+            - name: CV
+              url: cv_xuanliu.pdf
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:xul047@ucsd.edu
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
-        - name: GitHub
-          url: https://github.com/user
-        - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
+          url: https://scholar.google.com/citations?hl=en&user=hbZUHxkAAAAJ&view_op=list_works&sortby=pubdate
+
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +80,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Xuan Liu"
       icon: favicon.ico
       iconHeight: 18
 
