@@ -56,8 +56,12 @@
 .post-content h4 {
     font-size: 19px;
     font-weight: var(--semibold);
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: var(--gray);
+}
+
+.post-content h4::first-letter {
+    text-transform: uppercase;
 }
 
 .post-content h4:nth-of-type(3n+1) {

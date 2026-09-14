@@ -23,6 +23,8 @@ Peer-reviewed publications, in reverse chronological order. See also my [Google 
 
 #### Co-Authored Publications
 
+- Eom, S., Yeo, M. J., Lee, D., Koo, J. H., Kim, J., Ren, Y., Oxford, C. R., **Liu, X.**, … Park, S. S. (2026). Contrasting long-range transport signals of metropolitan PM2.5 in South Korea detected by SPARTAN observations. *Atmospheric Pollution Research*, 17(8), 103088. [doi.org/10.1016/j.apr.2026.103088](https://doi.org/10.1016/j.apr.2026.103088)
+
 - Zhang, D., Martin, R. V., **Liu, X.**, Van Donkelaar, A., Oxford, C. R., Li, Y., … Windwer, E. (2025). Improving annual fine mineral dust representation from the surface to the column in GEOS-Chem 14.4.1. *Geoscientific Model Development*, 18(19), 6767-6803. [doi.org/10.5194/gmd-18-6767-2025](https://doi.org/10.5194/gmd-18-6767-2025)
 
 - Eom, S., Park, S. S., **Liu, X.**, Oxford, C. R., Martin, R. V., Kim, J., & Song, C. K. (2025). Impact of Chemical Composition on Aerosol Scattering: Insights from the Surface Particulate Matter Network and Aerosol Robotic Network. *Environmental Science & Technology*, 59(37), 19899-19909. [doi.org/10.1021/acs.est.5c09325](https://doi.org/10.1021/acs.est.5c09325)
@@ -36,10 +38,3 @@ Peer-reviewed publications, in reverse chronological order. See also my [Google 
 - Perez-Plazola, M., Diaz, J., Stewart, C. P., Arnold, C. D., Caswell, B. L., Lutter, C. K., Werner, E. R., Maleta, K., Turner, J., Prathibha, P., **Liu, X.**, Gyimah, E., & Iannotti, L. (2023). Plasma Mineral Status after a Six-Month Intervention Providing One Egg per Day to Young Malawian Children: A Randomized Controlled Trial. *Scientific Reports*, 13(1), 6698. [doi.org/10.1038/s41598-023-33114-1](https://doi.org/10.1038/s41598-023-33114-1)
 
 - Lin, C., **Liu, X.**, Yang, Q., Wu, H., Liu, F., Zhang, Q., Zhu, A., & Liu, Q. (2019). Hydrophobic Side Chains to Enhance Hydroxide Conductivity and Physicochemical Stabilities of Side-Chain-Type Polymer AEMs. *Journal of Membrane Science*, 585, 90–98. [doi.org/10.1016/j.memsci.2019.04.066](https://doi.org/10.1016/j.memsci.2019.04.066)
-
----
-
-#### In Preparation
-
-- **Liu, X.**, et al. A Revised Emitted Dust Particle Size Distribution Based on Regional Soil Particle Size Measurements.
-- **Liu, X.**, et al. Estimating Current and Future Dust Exposure from the Shrinking Salton Sea.

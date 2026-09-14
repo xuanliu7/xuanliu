@@ -5,12 +5,9 @@ hidemeta: true
 description: "Xuan Liu's research on mineral dust composition, measurement, and environmental impacts, integrating field observations, satellite remote sensing, and atmospheric modeling."
 ---
 
-*Understanding Mineral Dust from Composition to Environmental Impacts*
+***Understanding Mineral Dust from Composition to Environmental Impacts***
 
-Mineral dust is one of the most important natural aerosol components in the atmosphere, yet substantial uncertainties remain in how we measure, model, and predict its composition and environmental impacts. My research seeks to understand how variations in dust composition and environmental conditions shape atmospheric dust, from its sources and emissions to its impacts on air quality, human health, and climate.
-
-I integrate field observations, elemental and mineralogical analysis, satellite remote sensing, and atmospheric modeling to develop improved approaches for measuring and representing mineral dust. By connecting observations across spatial and temporal scales, my work identifies sources of uncertainty in current measurement and modeling frameworks and develops new methods to reduce these uncertainties.
-
+Mineral dust is one of the most important natural aerosol components in the atmosphere, yet substantial uncertainties remain in how we measure, model, and predict its composition and environmental impacts. My research investigates how variations in dust composition and environmental conditions shape atmospheric dust, from its sources and emissions to its impacts on air quality, human health, and climate. I integrate field observations, elemental and mineralogical analysis, satellite remote sensing, and atmospheric modeling to identify and reduce uncertainties in the measurement and representation of mineral dust.
 
 
 ---
@@ -29,7 +26,7 @@ Accurately quantifying dust concentration and composition is essential for asses
 
 #### From Desert Observations to Improved Atmospheric Dust Modeling
 
-Dust mineralogy and particle size distribution (PSD) govern how dust interacts with radiation and the atmosphere, yet both remain major sources of uncertainty in regional and global models. I use soil mineralogy and PSD measurements from diverse deserts to improve the representation of dust composition and size. By evaluating NASA’s Earth Surface Mineral Dust Source Investigation (EMIT) mineralogy against ground observations, I identified uncertainties in satellite retrievals and developed empirical approaches to improve satellite-derived mineral estimates. I also developed a new soil PSD parameterization based on sediment measurements that improves the representation of emitted dust, particularly the often-underestimated super-coarse fraction (diameter >10 µm). I incorporate EMIT mineralogy and the revised emitted dust PSD into the Weather Research and Forecasting model coupled with Chemistry (WRF-Chem) to simulate individual dust minerals and improve estimates of dust optical properties and direct radiative effects.
+Dust mineralogy and particle size distribution (PSD) govern how dust interacts with radiation and the atmosphere, yet both remain major sources of uncertainty in regional and global models. I use soil mineralogy and PSD measurements from diverse deserts to improve the representation of dust composition and size. By evaluating NASA’s Earth Surface Mineral Dust Source Investigation ([EMIT](https://earth.jpl.nasa.gov/emit/)) mineralogy against ground observations, I identified uncertainties in satellite retrievals and developed empirical approaches to improve satellite-derived mineral estimates. I also developed a new soil PSD parameterization based on sediment measurements that improves the representation of emitted dust, particularly the often-underestimated super-coarse fraction (diameter >10 µm). I incorporate EMIT mineralogy and the revised emitted dust PSD into the Weather Research and Forecasting model coupled with Chemistry (WRF-Chem) to simulate individual dust minerals and improve estimates of dust optical properties and direct radiative effects.
 
 - Liu, X., Ginoux, P., Pérez García‐Pando, C., González‐Romero, A., Querol, X., Brodrick, P. G., & Evan, A. (2026). Comparison of soil mineralogy from EMIT imaging spectroscopy and ground‐based measurements in the deserts of southern California. *Journal of Geophysical Research: Atmospheres*, 131(12), e2026JD046595. [doi.org/10.1029/2026JD046595](https://doi.org/10.1029/2026JD046595)
 - Liu, X., et al. A Revised Emitted Dust Particle Size Distribution Based on Regional Soil Particle Size Measurements. *In preparation.*
@@ -39,6 +36,6 @@ Dust mineralogy and particle size distribution (PSD) govern how dust interacts w
 
 #### Environmental Change, Dust Emissions, and Community Impacts 
 
-As climate and land-use change reshape dust source regions, understanding how these changes alter emissions and translate into exposure risks for nearby communities is an increasingly urgent challenge. I use WRF-Chem to improve the simulation of dust emissions through improved representations of surface properties and dust emission parameterizations. My research also examines how environmental change alters dust sources and impacts. In particular, I investigate how saline lake desiccation can affect dust emissions, community exposure, and regional climate.
+Environmental change is reshaping dust source regions, altering surface conditions and dust emissions and creating new challenges for air quality and communities exposed to dust. I use WRF-Chem to improve the simulation of dust emissions through improved representations of surface properties and dust emission parameterizations. My research also examines how environmental change alters dust sources and impacts. In particular, I investigate how saline lake desiccation can affect dust emissions, community exposure, and regional climate.
 
 - Liu, X., et al. Estimating Current and Future Dust Exposure from the Shrinking Salton Sea. *In preparation.*
