@@ -22,8 +22,8 @@ Accurately quantifying dust concentration and composition is essential for asses
 - Liu, X., Turner, J. R., Mitroo, D., Ren, Y., Oxford, C. R., Liu, W., & Martin, R. V. (2025). Assessing Attenuation Effects in X-ray Fluorescence Analysis of Light Elements in Mineral Dust. *ACS ES&T Air*, 3(1), 175-185. [doi.org/10.1021/acsestair.5c00295](https://doi.org/10.1021/acsestair.5c00295)
 
 <div style="display:flex;gap:16px;flex-wrap:wrap;margin:1rem 0;">
-<img src="/images/research/figure1.png" alt="Global-scale mineral dust equation validation" style="flex:1 1 260px;max-width:100%;border-radius:4px;">
-<img src="/images/research/figure2.png" alt="XRF attenuation correction validation" style="flex:1 1 260px;max-width:100%;border-radius:4px;">
+<img src="../images/research/figure1.png" alt="Global-scale mineral dust equation validation" style="flex:1 1 260px;max-width:100%;border-radius:4px;">
+<img src="../images/research/figure2.png" alt="Dust underestimation due to XRF attenuation" style="flex:1 1 260px;max-width:100%;border-radius:4px;">
 </div>
 
 ---
@@ -37,9 +37,9 @@ Exposure to airborne dust and hazardous trace elements can adversely affect huma
 - Liu, X., Turner, J. R., Oxford, C., McNeill, J., Walsh, B., Roy, E. L., … Martin, R. V. (2024). Elemental Characterization of Ambient Particulate Matter for a Globally Distributed Monitoring Network: Methodology and Implications. *ACS EST Air*, 1(4), 283-293. [doi.org/10.1021/acsestair.3c00069](https://doi.org/10.1021/acsestair.3c00069)
 - Liu, X., Amonov, M., & Turner, J. R. (2025). Quantifying Dust Contribution to Particulate Matter in Central Asia: Insights from the Elemental Composition of PM2.5 and PM10 in Uzbekistan. *Atmospheric Pollution Research*. [doi.org/10.1016/j.apr.2025.102781](https://doi.org/10.1016/j.apr.2025.102781)
 
-![Dust and trace element oxide contributions to PM across the SPARTAN network](/images/research/figure3.png#center)
+![Dust and trace element oxide contributions to PM across the SPARTAN network](../images/research/figure3.png#center)
 
-![Satellite-observed dust transport over the Aralkum and Kyzylkum in Central Asia](/images/research/figure4.jpg#center)
+![Satellite-observed dust transport over the Aralkum and Kyzylkum in Central Asia](../images/research/figure4.jpg#center)
 
 ---
 
@@ -52,7 +52,7 @@ Dust mineralogy and particle size distribution (PSD) influence how dust interact
 - Liu, X., Ginoux, P., Pérez García‐Pando, C., González‐Romero, A., Querol, X., Brodrick, P. G., & Evan, A. (2026). Comparison of soil mineralogy from EMIT imaging spectroscopy and ground‐based measurements in the deserts of southern California. *Journal of Geophysical Research: Atmospheres*, 131(12), e2026JD046595. [doi.org/10.1029/2026JD046595](https://doi.org/10.1029/2026JD046595)
 - Liu, X., et al. A Revised Emitted Dust Particle Size Distribution Based on Regional Soil Particle Size Measurements. *In preparation.*
 
-![Comparison of ground-based and EMIT-derived soil mineralogy in southern California deserts](/images/research/figure5.jpg#center)
+![Comparison of ground-based and EMIT-derived soil mineralogy in southern California deserts](../images/research/figure5.jpg#center)
 
 ---
 

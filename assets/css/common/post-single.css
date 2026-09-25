@@ -55,25 +55,13 @@
 
 .post-content h4 {
     font-size: 19px;
-    font-weight: var(--semibold);
+    font-weight: bold;
     text-transform: lowercase;
-    color: var(--gray);
+    color: var(--primary);
 }
 
 .post-content h4::first-letter {
     text-transform: uppercase;
-}
-
-.post-content h4:nth-of-type(3n+1) {
-    color: #a97142;
-}
-
-.post-content h4:nth-of-type(3n+2) {
-    color: #5b84a8;
-}
-
-.post-content h4:nth-of-type(3n+3) {
-    color: #7a9c6c;
 }
 
 .post-content h5 {
