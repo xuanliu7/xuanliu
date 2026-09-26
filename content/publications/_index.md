@@ -7,7 +7,7 @@ description: "Peer-reviewed publications by Xuan Liu on mineral dust measurement
 
 ---
 
-Peer-reviewed publications, in reverse chronological order. See also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=hbZUHxkAAAAJ&view_op=list_works&sortby=pubdate) profile for the most up-to-date list.
+Peer-reviewed publications, in reverse chronological order.
 
 #### First-Author Publications
 

@@ -60,6 +60,10 @@ Dust mineralogy and particle size distribution (PSD) influence how dust interact
 
 *Focus: How will environmental change alter dust emissions and their consequences?*
 
-Environmental change is reshaping dust source regions and altering dust emissions and their impacts on air quality and climate. I improve WRF-Chem simulations of dust emissions through better representations of surface properties and dust emission processes, and use these improved simulations to assess how changes in dust sources affect regional exposure and climate. In particular, my research examines how saline lake desiccation can expand dust-emitting areas and increase community exposure to dust.
+Environmental change is reshaping dust source regions and altering dust emissions and their impacts on air quality and climate. I improve WRF-Chem simulations of dust emissions through better representations of surface properties and dust emission processes, and use these improved simulations to assess how changes in dust sources affect regional exposure and climate. In particular, my research examines how saline lake desiccation can expand dust-emitting areas and increase community exposure to dust. I am also improving WRF-Chem simulations of dust in the Coachella Valley by constraining emissions with Portable In-Situ Wind ERosion Laboratory (PI-SWERL) measurements to identify key dust sources and inform mitigation efforts.
 
 - Liu, X., et al. Estimating Current and Future Dust Exposure from the Shrinking Salton Sea. *In preparation.*
+
+![Exposed playa at the receding shoreline of the Salton Sea, Southern California](../images/research/figure6.jpg#center)
+
+![PI-SWERL deployed at sunset on exposed playa in the Coachella Valley, Southern California](../images/research/figure7.jpg#center)

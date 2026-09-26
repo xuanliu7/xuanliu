@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Xuan Liu
-          subtitle: "I am a Postdoctoral Scholar at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), University of California San Diego, working with Prof. Amato Evan. I am an atmospheric scientist studying mineral dust — how it is measured, modeled, and how it affects air quality, human health, and climate. My work combines ground-based observations, geochemical lab analysis, satellite remote sensing, and atmospheric modeling (WRF-Chem) to reduce uncertainty in how dust concentration, composition, and emissions are represented."
+          subtitle: "I am a Postdoctoral Scholar at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/), University of California San Diego, working with Dr. Amato Evan and Dr. William Porter. I am an atmospheric scientist studying mineral dust — how it is measured, modeled, and how it affects air quality, human health, and climate. My work combines ground-based observations, geochemical lab analysis, satellite remote sensing, and atmospheric modeling (WRF-Chem) to reduce uncertainty in how dust concentration, composition, and emissions are represented."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -72,6 +72,8 @@ params:
           url: mailto:xul047@ucsd.edu
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=hbZUHxkAAAAJ&view_op=list_works&sortby=pubdate
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/xuan-liu-6b2b171b6/
 
 
     assets:
