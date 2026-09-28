@@ -64,6 +64,6 @@ Environmental change is reshaping dust source regions and altering dust emission
 
 - Liu, X., et al. Estimating Current and Future Dust Exposure from the Shrinking Salton Sea. *In preparation.*
 
-![Exposed playa at the receding shoreline of the Salton Sea, Southern California](../images/research/figure6.jpg#center)
+![Field sampling site on the exposed playa of the shrinking Salton Sea, Southern California](../images/research/figure6.jpg#center)
 
 ![PI-SWERL deployed at sunset on exposed playa in the Coachella Valley, Southern California](../images/research/figure7.jpg#center)
